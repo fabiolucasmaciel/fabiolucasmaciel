@@ -16,7 +16,6 @@
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fabio-Excel" height="32" width="32" src="https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/09/Imagem-Logo-Excel-PNG.png">
   <img align="center" alt="Fabio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Fabio-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Fabio-PowerBI" height="30" width="27" src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2019/10/power-bi_logo_transparent.png?fit=1300%2C1356&ssl=1">
   <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
